@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 `In the quietest corners of the world, hidden from the bustle of the modern age, I forge complex sigils (code) that shape the fabric of the digital realm. I wander the unseen paths of technology, uncovering knowledge that transcends the common understanding. What others see as *code*, I see as a language of creation—an art form that binds the known and unknown.`
 
 #### 🦉 The Sage's Records
-[![TheHermitWise's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHermitWise&show_icons=true&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+[![TheHermitWise's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHermitWise&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
